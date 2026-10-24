@@ -1,6 +1,6 @@
 # Привет, я Илья 👋
 
-Изучаю веб-разработку, фокус на **React** и **TypeScript**. Делаю учебные full-stack проекты от UI до API, авторизации и аботы с БД.
+Изучаю веб-разработку, фокус на **React** и **TypeScript**. Делаю учебные full-stack проекты от UI до API, авторизации и работы с БД.
 
 ### 🌟 Основной стек (Web / Fullstack):
 * **Frontend:** React, TypeScript, JavaScript (ES6+), HTML5/CSS3
@@ -15,7 +15,7 @@
 ---
 
 ### 🚀 Мои главные проекты на GitHub:
-* **[ChatTS](https://github.com//ilyaGladyshev/chatTs)** — Мессенджер реального времени на TypeScript с архитектурой Node.js + WebSockets + MySQL. Наглядный кейс миграции проекта с плоских JSON-файлов на полноценную промышленную СУБД.
+* **[ChatTS](https://github.com/ilyaGladyshev/chatTS)** — Мессенджер реального времени на TypeScript с архитектурой Node.js + WebSockets + MySQL. Наглядный кейс миграции проекта с плоских JSON-файлов на полноценную промышленную СУБД.
 * **[react-itog](https://github.com/ilyaGladyshev/react-itog)** -- Учебный менеджер задач с авторизацией и JSON-хранилищем.
 * **[search-engine](https://github.com/ilyaGladyshev/search-engine)** -- Дипломный проект курса Java - разработки Skillbox. Поисковый движок с индексацией сайтов, морфологическим разбором (русский язык) и полнотекстовым поиском.
 ---
