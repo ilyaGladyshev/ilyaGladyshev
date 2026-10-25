@@ -18,7 +18,7 @@
 * **[ChatTS](https://github.com/ilyaGladyshev/chatTS)** — Мессенджер реального времени на TypeScript с архитектурой Node.js + WebSockets + MySQL. Наглядный кейс миграции проекта с плоских JSON-файлов на полноценную промышленную СУБД.
 * **[react-itog](https://github.com/ilyaGladyshev/react-itog)** -- Учебный менеджер задач с авторизацией и JSON-хранилищем.
 * **[search-engine](https://github.com/ilyaGladyshev/search-engine)** -- Дипломный проект курса Java - разработки Skillbox. Поисковый движок с индексацией сайтов, морфологическим разбором (русский язык) и полнотекстовым поиском.
-* **[diplom-project](https://github.com/ilyaGladyshev/diplom-project)** -- Дипломный fromtend-проект на React (UI, адаптив, интерактивные блоки)
+* **[diplom-project](https://github.com/ilyaGladyshev/diplom-project)** -- Дипломный frontend-проект на React (UI, адаптив, интерактивные блоки)
 ---
 
 ### 📫 Как со мной связаться:
