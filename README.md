@@ -19,7 +19,7 @@
 
 - **Frontend** [https://chat-ts-ten.vercel.app](https://chat-ts-ten.vercel.app)
 
-- **Backend** [gladyshzoda.duckdns.org](gladyshzoda.duckdns.org)
+- **Backend** [https://gladyshzoda.duckdns.org](https://gladyshzoda.duckdns.org)
 
 2. **[react-itog](https://github.com/ilyaGladyshev/react-itog)** -- Учебный менеджер задач с авторизацией и JSON-хранилищем.
 3. **[search-engine](https://github.com/ilyaGladyshev/search-engine)** -- Дипломный проект курса Java - разработки Skillbox. Поисковый движок с индексацией сайтов, морфологическим разбором (русский язык) и полнотекстовым поиском.
