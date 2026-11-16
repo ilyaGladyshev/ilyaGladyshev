@@ -24,7 +24,7 @@
 2. **[react-itog](https://github.com/ilyaGladyshev/react-itog)** -- Учебный менеджер задач с авторизацией и хранением данных в MySQL.
 Проект размещен в сети:
 
-- **Frontend** [https://react-itog-five.vercel.app](react-itog-five.vercel.app)
+- **Frontend** [https://react-itog-five.vercel.app](https://react-itog-five.vercel.app)
 
 - **Backend** [https://tasks.gladyshzoda.duckdns.org](https://tasks.gladyshzoda.duckdns.org)
 
