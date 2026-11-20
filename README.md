@@ -17,7 +17,7 @@
 ### 🚀 Мои главные проекты на GitHub:
 1. **[ChatTS](https://github.com/ilyaGladyshev/chatTS)** — Мессенджер реального времени на TypeScript с архитектурой Node.js + WebSockets + MySQL. Наглядный кейс миграции проекта с плоских JSON-файлов на полноценную промышленную СУБД. Проект размещен в сети:
 
-- **Frontend** [https://https://chat-front.gladyshzoda.duckdns.org](https://chat-front.gladyshzoda.duckdns.org)
+- **Frontend** [https://chat-front.gladyshzoda.duckdns.org](https://chat-front.gladyshzoda.duckdns.org)
 
 - **Backend** [https://gladyshzoda.duckdns.org](https://gladyshzoda.duckdns.org)
 
