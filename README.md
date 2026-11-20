@@ -17,14 +17,14 @@
 ### 🚀 Мои главные проекты на GitHub:
 1. **[ChatTS](https://github.com/ilyaGladyshev/chatTS)** — Мессенджер реального времени на TypeScript с архитектурой Node.js + WebSockets + MySQL. Наглядный кейс миграции проекта с плоских JSON-файлов на полноценную промышленную СУБД. Проект размещен в сети:
 
-- **Frontend** [https://chat-ts-ten.vercel.app](https://chat-ts-ten.vercel.app)
+- **Frontend** [https://https://chat-front.gladyshzoda.duckdns.org](https://chat-front.gladyshzoda.duckdns.org)
 
 - **Backend** [https://gladyshzoda.duckdns.org](https://gladyshzoda.duckdns.org)
 
 2. **[react-itog](https://github.com/ilyaGladyshev/react-itog)** -- Учебный менеджер задач с авторизацией и хранением данных в MySQL.
 Проект размещен в сети:
 
-- **Frontend** [https://react-itog-five.vercel.app](https://react-itog-five.vercel.app)
+- **Frontend** [https://task-front.gladyshzoda.duckdns.org](https://task-front.gladyshzoda.duckdns.org)
 
 - **Backend** [https://tasks.gladyshzoda.duckdns.org](https://tasks.gladyshzoda.duckdns.org)
 
